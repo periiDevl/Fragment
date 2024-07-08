@@ -1,0 +1,29 @@
+
+@vari{"models/grass/scene.gltf"}
+
+.object{
+    x[0]
+    y[-150]
+    z[0]
+    sy[1000]
+    sx[1000]
+    sz[1000]
+    rotx[0]
+    rotz[0]
+    path[vari]
+    draw[true]
+
+}
+/.object2{
+    x[0]
+    y[50]
+    z[0]
+    sy[1000]
+    sx[1000]
+    sz[1000]
+    rotx[0]
+    rotz[0]
+    path[]
+    draw[true]
+
+}
